@@ -1,7 +1,7 @@
 // =============================================
-// ATENÇÃO: Substitua pela sua URL do CrudCrud
+// ATENÇÃO: não esquecer de Substituir pela minha URL do CrudCrud
 // Acesse https://crudcrud.com e copie sua URL
-// Exemplo: https://crudcrud.com/api/SEU_TOKEN
+// Exemplo: https://crudcrud.com/api/SEU_TOK
 // =============================================
 const BASE_URL = 'https://crudcrud.com/api/SEU_TOKEN_AQUI/clientes';
 
