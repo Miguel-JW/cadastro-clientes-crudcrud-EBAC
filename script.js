@@ -3,7 +3,7 @@
 // Acesse https://crudcrud.com e copie sua URL
 // Exemplo: https://crudcrud.com/api/SEU_TOK
 // =============================================
-const BASE_URL = 'https://crudcrud.com/api/SEU_TOKEN_AQUI/clientes';
+const BASE_URL = 'https://crudcrud.com/api/1ce8d8203fb247d393e015f8efd71b40/clientes';
 
 const formCliente    = document.getElementById('formCliente');
 const inputNome      = document.getElementById('nome');
